@@ -3,3 +3,6 @@
 # @time : 2021/4/21
 
 # write your settings.
+
+# debugger mode
+DEBUGGER = True
